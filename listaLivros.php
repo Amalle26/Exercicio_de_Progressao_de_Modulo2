@@ -16,7 +16,7 @@
 	<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css">
 </head>
 <body>
-    <h1 class="text-center"> Lista de Alunos </h1><hr>
+    <h1 class="text-center"> Lista de Livros </h1><hr>
     <table id="example1" class="table table-bordered table-hover">
         <thead>
         <tr>
